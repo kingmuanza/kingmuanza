@@ -30,8 +30,12 @@ Actuellement, je travaille sur de l'**automatisation à grande échelle en TypeS
 
 ## 📊 Statistiques
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kingmuanza&show_icons=true&theme=default&locale=fr&hide_border=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmuanza&layout=compact&locale=fr&hide_border=true)
+![Followers](https://img.shields.io/github/followers/kingmuanza?style=for-the-badge&logo=github&label=Followers)
+![Étoiles](https://img.shields.io/github/stars/kingmuanza?style=for-the-badge&logo=github&label=%C3%89toiles)
+
+![Série de contributions](https://streak-stats.demolab.com?user=kingmuanza&locale=fr&hide_border=true)
+
+![Graphe de contributions](https://ghchart.rshah.org/kingmuanza)
 
 ## 📫 Me contacter
 
